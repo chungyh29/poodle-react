@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/poodle-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/poodle-react/static/js/main.0bd3b261.chunk.js",
+    "main.js.map": "/poodle-react/static/js/main.0bd3b261.chunk.js.map",
+    "runtime-main.js": "/poodle-react/static/js/runtime-main.4f20b0ad.js",
+    "runtime-main.js.map": "/poodle-react/static/js/runtime-main.4f20b0ad.js.map",
+    "static/js/2.6d187dd0.chunk.js": "/poodle-react/static/js/2.6d187dd0.chunk.js",
+    "static/js/2.6d187dd0.chunk.js.map": "/poodle-react/static/js/2.6d187dd0.chunk.js.map",
+    "static/js/3.dea48cbb.chunk.js": "/poodle-react/static/js/3.dea48cbb.chunk.js",
+    "static/js/3.dea48cbb.chunk.js.map": "/poodle-react/static/js/3.dea48cbb.chunk.js.map",
+    "index.html": "/poodle-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/poodle-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6d187dd0.chunk.js.LICENSE.txt": "/poodle-react/static/js/2.6d187dd0.chunk.js.LICENSE.txt",
+    "static/media/dogCarousel3.df9404e5.jpg": "/poodle-react/static/media/dogCarousel3.df9404e5.jpg",
+    "static/media/dogCarousel4.22dc5fc1.jpg": "/poodle-react/static/media/dogCarousel4.22dc5fc1.jpg",
+    "static/media/dogCarouselCat.4243089e.jpg": "/poodle-react/static/media/dogCarouselCat.4243089e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f20b0ad.js",
+    "static/js/2.6d187dd0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0bd3b261.chunk.js"
+  ]
+}
